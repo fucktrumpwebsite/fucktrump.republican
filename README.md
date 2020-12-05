@@ -1,3 +1,4 @@
-# fucktrump.republican website
+# Github: https://github.com/fucktrumpwebsite/fucktrump.republican
 
-Lets build something great here. Open up an issue with ideas on what we should build to host @ fucktrump.republican
+Lets make something great. Head on over to the git repo and lets discuss what we can make.
+

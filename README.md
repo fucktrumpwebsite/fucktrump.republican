@@ -1,6 +1,6 @@
 # [Github](https://github.com/fucktrumpwebsite/fucktrump.republican)
 
-Lets make something great. Head on over to the git repo and lets discuss what we can make.
+Lets make something great. Head on over to the git repo and lets discuss how we can best capitalize on this wonderful domain.
 
 [How much we have spent for Trump to golf](https://trumpgolfcount.com/)
 

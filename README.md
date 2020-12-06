@@ -1,5 +1,7 @@
 # [Github](https://github.com/fucktrumpwebsite/fucktrump.republican)
 
+![](https://cdn.discordapp.com/attachments/694235476470661149/784931178476994620/Nk1If5U.gif)
+
 Lets make something great. Head on over to the git repo and lets discuss how we can best capitalize on this wonderful domain.
 
 [How much we have spent for Trump to golf](https://trumpgolfcount.com/)

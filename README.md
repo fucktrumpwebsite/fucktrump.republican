@@ -11,3 +11,5 @@ Lets make something great. Head on over to the git repo and lets discuss how we 
 [Trump Hotels](www.trumphotels.org)
 
 [Trump Insults](https://trumpsults.com/)
+
+* This is a temporary website, and the final build will not be hosted on GitHub Pages as to not break any TOS or Community Guidelines *
